@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react_movie_app_2020/static/js/main.709454e5.chunk.js",
-    "main.js.map": "/react_movie_app_2020/static/js/main.709454e5.chunk.js.map",
+    "main.js": "/react_movie_app_2020/static/js/main.16c13053.chunk.js",
+    "main.js.map": "/react_movie_app_2020/static/js/main.16c13053.chunk.js.map",
     "runtime-main.js": "/react_movie_app_2020/static/js/runtime-main.a3c03927.js",
     "runtime-main.js.map": "/react_movie_app_2020/static/js/runtime-main.a3c03927.js.map",
     "static/js/2.0eaae624.chunk.js": "/react_movie_app_2020/static/js/2.0eaae624.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.a3c03927.js",
     "static/js/2.0eaae624.chunk.js",
-    "static/js/main.709454e5.chunk.js"
+    "static/js/main.16c13053.chunk.js"
   ]
 }
